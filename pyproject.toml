@@ -1,0 +1,11 @@
+[project]
+name = "assinatura-digital-automatica"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "opencv-python>=4.10.0.84",
+    "pillow>=10.4.0",
+    "pymupdf>=1.24.10",
+]
